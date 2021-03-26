@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "fancy_react_native",
+    "slug": "fancyreactnative",
+    "version": "1.0.0",
+    "sdkVersion": "40.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "app.fancyreactnative.App"
+    },
+    "ios": {
+      "bundleIdentifier": "app.fancyreactnative.App"
+    }
+  }
+}
